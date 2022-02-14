@@ -1,11 +1,4 @@
-### Hi there 👋
-
-<!--
-**daniellybx/daniellybx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-Hello there!
+### Hello there! 👋
 
 I'm Dani, a Data Scientist and an Epidemiologist from Brazil.
 
@@ -16,4 +9,3 @@ I'm Dani, a Data Scientist and an Epidemiologist from Brazil.
 - 💬 Ask me about epidemiological analysis and R
 - 📫 How to reach me: daniellyb.xavier@icloud.com
 - ⚡ Fun fact: I love time series analysis, but I still know little about it
--->
