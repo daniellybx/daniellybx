@@ -2,7 +2,7 @@
 
 I'm Dani, a Data Scientist and an Epidemiologist from Brazil.
 
-- 🔭 I'm currently working as a Data Scientist, creating Machine Learning models to solve business problems.
+- 🔭 I'm currently working as a Data Scientist, creating Machine Learning models to solve business problems
 - 🌱 I'm learning more about Python and AWS
 - 👯 I can collaborate with epidemiological analysis, machine learning in the health area, and R language
 - 🤔 I'm looking to help with health analytics and predictive models for infectious diseases
