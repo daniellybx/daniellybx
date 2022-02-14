@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm Dani, a Data Scientist and an Epidemiologist from Brazil.
+I'm Dani, a Data Scientist and Epidemiologist from Brazil.
 
 - 🔭 I'm currently working as a Data Scientist, creating Machine Learning models to solve business problems
 - 🌱 I'm learning more about Python and AWS
